@@ -1,2 +1,2 @@
 # JavaScript-Fundamentals
-Fundamentals, paradigms and object orientation
+Fundamentals, arrays and objects
